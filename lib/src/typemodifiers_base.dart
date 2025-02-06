@@ -79,7 +79,7 @@ abstract final class AbstractFinalClass {
 }
 
 // 既可以作为普通类使用，也可以作为混入类使用
-mixin class MinXinClass {
+mixin class MiXinClass {
   void mixinMethod() {
     print('This is a mixin method.');
   }
